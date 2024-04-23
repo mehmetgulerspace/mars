@@ -1,0 +1,14 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "author": "Mehmet Guler",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
