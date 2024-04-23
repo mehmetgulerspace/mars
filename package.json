@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test": "jest"
   },
   "author": "Mehmet Guler",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "3.2.5"
+    "@types/jest": "29.5.12",
+    "jest": "29.7.0",
+    "prettier": "3.2.5",
+    "ts-jest": "29.1.2",
+    "typescript": "5.4.5"
   }
 }
